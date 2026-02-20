@@ -8,12 +8,12 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Alejandro Robles',
-    subtitle: 'Este es mi portafolio de analisis de datos',
+    title: 'Alejandro Robles Lizarraga',
+    subtitle: 'Portafolio de proyectos de análisis de datos, visualización y modelado predictivo.',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: 'hero',
+        alt: ''
     },
     headerNavLinks: [
         {
@@ -59,13 +59,7 @@ const siteConfig: SiteConfig = {
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
-        },
-        actions: [
-            {
-                text: 'LinkedIn',
-                href: 'www.linkedin.com/in/alejandrorobleslizarraga'
-            }
-        ]
+        }
     },
     subscribe: {
         enabled: true,
