@@ -8,8 +8,8 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'Alejandro Robles',
+    subtitle: 'Este es mi portafolio de analisis de datos',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -29,8 +29,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'GitHub',
+            href: 'https://github.com/Robles663'
         }
     ],
     footerNavLinks: [
@@ -45,24 +45,12 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'www.linkedin.com/in/alejandrorobleslizarraga'
         }
     ],
     hero: {
