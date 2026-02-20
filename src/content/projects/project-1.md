@@ -1,7 +1,7 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Analisis Epidemiolgico COVID-19: Comparacion de dispersion en municipio Rural vs Metropolitana'
+description: Este proyecto realiza un análisis comparativo de la dinámica de contagio de COVID-19 entre municipios rurales y metropolitanos, utilizando técnicas de análisis de datos y estadística inferencial.
+publishDate: 'Feb 20 2026'
 seo:
   image:
     src: '../../assets/images/project-1.jpg'
@@ -10,57 +10,84 @@ seo:
 
 ![Project preview](../../assets/images/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Nota:** Este proyecto utiliza datos epidemiológicos reales de acceso público con fines exclusivamente educativos y demostrativos. El análisis presentado no constituye una evaluación oficial ni pretende emitir conclusiones médicas, sanitarias o gubernamentales, sino mostrar la aplicación de técnicas de análisis de datos dentro de un contexto académico y de desarrollo profesional.
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+**Descripcion del proyecto:**
+Este proyecto consiste en un análisis exploratorio de datos enfocado en evaluar el impacto del COVID-19 mediante la comparación entre un municipio rural y uno metropolitano. El estudio busca identificar cómo factores como el tamaño poblacional y la evolución temporal influyen en los patrones de contagio.
 
-## Objectives
+A partir de datos epidemiológicos reales, se desarrolló un flujo completo de análisis que incluye limpieza, transformación, integración de datasets y visualización de resultados, con el objetivo de generar interpretaciones comparables y basadas en datos.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+El proyecto está orientado a demostrar habilidades prácticas de análisis de datos aplicadas a un caso real de salud pública.
 
-## Features
+## Objectivos
+- Comparar la evolución de contagios entre contextos rurales y metropolitanos.
+- Normalizar los datos considerando la población para realizar comparaciones justas.
+- Identificar periodos pico de contagio y cambios en tendencias temporales.
+- Analizar el impacto relativo del COVID-19 más allá de valores absolutos.
+- Construir un flujo de análisis reproducible utilizando herramientas de análisis de datos.
 
-1. **EcoScore and Challenges:**
+---
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+## Metodologia
 
-2. **Personalized Eco-Goals:**
+1. Adquisición de datos
+Obtención de datasets epidemiológicos públicos relacionados con contagios y población.
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+2. Limpieza y preparación de datos
+- Tratamiento de valores faltantes
+- Estandarización de fechas y variables
+- Corrección de inconsistencias
 
-3. **Green Rewards Marketplace:**
+3. Integración de información
+Unión de tablas mediante claves comunes para generar métricas comparables.
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+4. Análisis Exploratorio (EDA)
+- Evaluación de tendencias temporales
+- Identificación de picos de contagio
+- Comparación proporcional entre municipios
 
-4. **Community Hub:**
+5. Visualización e interpretación
+Construcción de gráficos orientados a facilitar la interpretación de resultados.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+---
 
-5. **EcoEducator AI Assistant:**
+## Componentes Principales del Análisis
+**Preparación de datos**
+- Manipulación de datos con Pandas.
+- Transformación de variables temporales.
+- Creación de métricas normalizadas por población.
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+**Análisis temporal**
+- Evaluación mensual de contagios.
+- Identificación de ventanas de mayor incidencia.
 
-## Technology Stack
+**Comparación contextual**
+- Diferencias entre comportamiento rural y urbano.
+- Interpretación basada en densidad poblacional.
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+**Visualización de datos**
+- Gráficos comparativos.
+- Histogramas y análisis de distribución.
+- Visualizaciones enfocadas en comunicación de hallazgos.
 
-## Outcome
+---
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
+## Tecnologías Utilizadas.
+- **Lenguaje:** Python
 
-## Client Testimonial
+- **Librerías:** Pandas, Plotly-espress, stats
 
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+- **Control de versiones:** Git y GitHub
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+- **Entorno de trabajo:** Jupyter Notebook y VS Code
+
+- **Fuente de datos:** Datos epidemiológicos públicos de COVID-19
+
+---
+
+## Resultados y aprendizajes
+El análisis muestra que los valores absolutos de contagio pueden generar interpretaciones incompletas si no se consideran variables contextuales como el tamaño poblacional. Al normalizar los datos, se observan diferencias relevantes en el impacto relativo del virus entre municipios.
+
+Este proyecto evidencia la importancia del análisis contextual en la toma de decisiones basada en datos y demuestra competencias clave de un Data Analyst Junior, incluyendo limpieza de datos, integración de información, análisis exploratorio y comunicación visual de resultados.
+
+**Nota:** Este proyecto utiliza datos epidemiológicos reales de acceso público con fines exclusivamente educativos y demostrativos. El análisis presentado no constituye una evaluación oficial ni pretende emitir conclusiones médicas, sanitarias o gubernamentales, sino mostrar la aplicación de técnicas de análisis de datos dentro de un contexto académico y de desarrollo profesional.
