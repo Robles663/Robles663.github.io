@@ -88,6 +88,9 @@ Construcción de gráficos orientados a facilitar la interpretación de resultad
 ## Resultados y aprendizajes
 El análisis muestra que los valores absolutos de contagio pueden generar interpretaciones incompletas si no se consideran variables contextuales como el tamaño poblacional. Al normalizar los datos, se observan diferencias relevantes en el impacto relativo del virus entre municipios.
 
+ ![imagen](../../assets/images/Comparacion_dinamica_alrededor_de_pico.png)
+  
+
 Este proyecto evidencia la importancia del análisis contextual en la toma de decisiones basada en datos y demuestra competencias clave de un Data Analyst Junior, incluyendo limpieza de datos, integración de información, análisis exploratorio y comunicación visual de resultados.
 
 **Nota:** Este proyecto utiliza datos epidemiológicos reales de acceso público con fines exclusivamente educativos y demostrativos. El análisis presentado no constituye una evaluación oficial ni pretende emitir conclusiones médicas, sanitarias o gubernamentales, sino mostrar la aplicación de técnicas de análisis de datos dentro de un contexto académico y de desarrollo profesional.

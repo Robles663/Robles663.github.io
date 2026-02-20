@@ -10,34 +10,16 @@ seo:
 
 ![Alt text for image](../../assets/images/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Alejandro Robles | Data Analyst
+**Transformando datos en información para mejores decisiones.**
 
-## Ethan Donovan - Web Developer based in Estonia
+Soy un profesional en formación como Analista de Datos, enfocado en desarrollar habilidades para transformar datos en información clara y útil para la toma de decisiones. Me motiva el aprendizaje continuo y constantemente busco mejorar mis conocimientos en análisis, visualización y resolución de problemas mediante datos, trabajando con proyectos prácticos que fortalecen mi experiencia técnica.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+## Habilidades y Experiencia
+Tengo experiencia en análisis de datos utilizando Python como herramienta principal, aplicando procesos de limpieza, transformación y exploración de información para identificar patrones y generar interpretaciones claras. He trabajado con librerías como Pandas y NumPy para la manipulación de datos, así como con herramientas de visualización que permiten comunicar resultados de forma comprensible y orientada a la toma de decisiones.
 
-## Skills and Expertise
+## Aprendizaje continuo
+La naturaleza dinámica del campo del análisis de datos me motiva a mantenerme actualizado con nuevas herramientas, metodologías y tendencias del sector. Siempre busco ampliar mis habilidades y continuar aprendiendo, incorporando nuevas técnicas que me permitan mejorar la calidad del análisis, la interpretación de datos y la forma en que comunico resultados de manera clara y visual.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
-
-## Innovation and Problem-Solving
-
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
-
-## Global Perspective, Local Impact
-
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
-
-## Continuous Learning
-
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
-
-## Collaboration and Communication
-
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
-
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+## Intereses personales
+Fuera del ámbito del análisis de datos, el deporte y la naturaleza forman una parte importante de mi vida. Practico escalada, actividad que refuerza habilidades como la planificación, la paciencia y la perseverancia. También disfruto visitar bosques y espacios naturales, donde encuentro inspiración y equilibrio. Además, tengo un interés particular por las tortugas marinas, símbolo que refleja mi afinidad por la naturaleza y que también forma parte de la identidad visual de este portafolio.
