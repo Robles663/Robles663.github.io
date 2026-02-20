@@ -54,16 +54,16 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Hola y bienvenido a mi portafolio!',
+        text: "Soy Analista de Datos enfocado en convertir datos en información clara y accionable para la toma de decisiones. Trabajo principalmente con Python y herramientas de análisis para limpiar, transformar y explorar datos, identificando patrones y tendencias que permitan comprender problemas reales desde una perspectiva cuantitativa.  Me caracterizo por un enfoque analítico, aprendizaje continuo y mejora constante de mis habilidades técnicas y metodológicas.  Actualmente continúo fortaleciendo mis competencias en análisis de datos, visualización y resolución de problemas basados en datos, con el objetivo de crecer profesionalmente como Data Analyst y aportar valor en entornos donde la información impulse mejores decisiones.  Sientete libre de revisar mis proyectos",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'LinkedIn',
+                href: 'www.linkedin.com/in/alejandrorobleslizarraga'
             }
         ]
     },
