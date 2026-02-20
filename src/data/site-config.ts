@@ -61,14 +61,6 @@ const siteConfig: SiteConfig = {
             alt: 'A person sitting at a desk in front of a computer'
         }
     },
-    subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
-    },
     postsPerPage: 8,
     projectsPerPage: 8
 };

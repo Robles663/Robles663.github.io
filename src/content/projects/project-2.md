@@ -9,8 +9,6 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/project-2.jpg)
-
 **Note:** Este proyecto es unicamente para demostrar la forma en que se pueden representar los datos de tal forma que sean comprensibles de manera visual. Puedes encontrar la informacion completa en https://github.com/Robles663/Proyect-Sprint-7
 
 **Descripcion del proyecto:**
