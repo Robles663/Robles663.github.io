@@ -50,7 +50,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: 'www.linkedin.com/in/alejandrorobleslizarraga'
+            href: 'https://www.linkedin.com/in/alejandrorobleslizarraga'
         }
     ],
     hero: {
