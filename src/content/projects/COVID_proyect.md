@@ -8,7 +8,7 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](../../assets/images/project-1.jpg)
+![portada](https://github.com/user-attachments/assets/2e848f79-02d5-46a0-b500-2cf6af2e04e6)
 
 **Nota:** Este proyecto utiliza datos epidemiológicos reales de acceso público con fines exclusivamente educativos y demostrativos. El análisis presentado no constituye una evaluación oficial ni pretende emitir conclusiones médicas, sanitarias o gubernamentales, sino mostrar la aplicación de técnicas de análisis de datos dentro de un contexto académico y de desarrollo profesional.
 
